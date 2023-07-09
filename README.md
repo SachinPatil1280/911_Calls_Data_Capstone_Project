@@ -12,6 +12,9 @@ For this capstone project, we will analyze some 911 call data from [Kaggle](http
 * addr: String variable, Address
 * e: String variable, Dummy variable (always 1)
 
+
+
+
 1. 911 Calls Capstone Project - Analysing the frequency of emergency 911 calls.
 
 2. This project is developed on a Jupyter Notebook using Python with Numpy, Pandas data analysis libraries, and Matplotlib and Seaborn data visualization libraries. The dataset is used from Kaggle for data analysis.
